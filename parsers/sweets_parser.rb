@@ -20,22 +20,28 @@ class SweetsParser
             sweet.image = item.css('.itemLink img').first['src']
             @@sweets_collection.push(sweet)
         end
-        save_to_file
     end
 
-    def save_to_file
-        path = './files/sweets.csv'
-        File.new(path, "w")
-            CSV.open(path, 'w', headers: ['Id', 'Title', 'Description', 'Image', 'Price'], write_headers: true) do |csv|
-                @@sweets_collection.each do |sweet|
-                    csv << [
-                        sweet.id, 
-                        sweet.title, 
-                        sweet.description,
-                        sweet.image,
-                        sweet.price
-                    ]
-                end
+    def save_to_csv
+        CSV.open(file, 'w', headers: ['Id', 'Title', 'Description', 'Image', 'Price'], write_headers: true) do |csv|
+            @@sweets_collection.each do |sweet|
+                csv << [
+                    sweet.id, 
+                    sweet.title, 
+                    sweet.description,
+                    sweet.image,
+                    sweet.price
+                ]
             end
+        end
     end
+
+    def save_to_yml(file)
+        File.open(file, 'w+') { |f| f.puts @@sweets_collection.to_yaml }
+    end
+
+    def save_to_json(file)
+        File.open(file, 'w+') { |f| f.puts @@sweets_collection.to_json }
+    end
+
 end

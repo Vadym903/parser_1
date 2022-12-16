@@ -9,8 +9,18 @@ SWEETS_URL = 'https://www.chocolate.lviv.ua/uk/shop/candies/'
 @@sweets_collection = []
 @@categories_collection = []
 
-SweetsParser.new(SWEETS_URL).read_and_save
-CategoriesParser.new(SWEETS_URL).read_and_save
+sweetParser = SweetsParser.new(SWEETS_URL)
+sweetParser.read_and_save
+sweetParser.save_to_csv(File.join(File.dirname(__FILE__), "sweets.csv"))
+sweetParser.save_to_json(File.join(File.dirname(__FILE__), "sweets.json"))
+sweetParser.save_to_yml(File.join(File.dirname(__FILE__), "sweets.yaml"))
+
+
+categoriesParser = CategoriesParser.new(SWEETS_URL)
+categoriesParser.read_and_save
+categoriesParser.save_to_csv(File.join(File.dirname(__FILE__), "categories.csv"))
+categoriesParser.save_to_json(File.join(File.dirname(__FILE__), "categories.json"))
+categoriesParser.save_to_yml(File.join(File.dirname(__FILE__), "categories.yaml"))
 
 
 
