@@ -1,0 +1,269 @@
+---
+- !ruby/object:Sweet
+  id: '1185'
+  title: "«Здійсни мрію» в коробочці"
+  price: '25'
+  description: Шоколадно-карамельний ганаш в білому шоколаді.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1185&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1428'
+  title: Нусвальд
+  price: '25'
+  description: Поєднання мигдалевого праліне, чорної смородини, мигдалю та повітряного
+    рису в білому шоколаді.Строк придатності – 60...
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1428&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1256'
+  title: Шварцвальд
+  price: '25'
+  description: Поєднання журавлини, мигдалю та кеш'ю в молочному шоколаді та какао.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1256&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '288'
+  title: Кайзервальд
+  price: '25'
+  description: Поєднання мигдалю, лісових горіхів, кеш'ю та фісташок в білому шоколаді
+    та какао. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=288&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '327'
+  title: Кавова імпреза
+  price: '25'
+  description: Ніжне поєднання молочно-горіхової та вершково-коньячної начинки з легким
+    присмаком кави. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=327&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1000'
+  title: Бананова льоля
+  price: '19'
+  description: |-
+    Ганаш на основі білого шоколаду з додаванням пасти банану в білому шоколаді та у жовтому цукрі.
+    20% від продажу цього...
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1000&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1728'
+  title: Блакитна льоля
+  price: '19'
+  description: Ганаш на основі білого шоколаду з додаванням пасти банану в білому
+    шоколаді та у синьому цукрі (натуральний барвник...
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1728&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1389'
+  title: Абрикосовий мармелад
+  price: '19'
+  description: Мармелад на основі абрикосового пюре в молочному шоколаді. Входить
+    до набору цукерок:"ЛАДНІ МАРМЕЛАДНІ"
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1389&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1390'
+  title: Мандариновий мармелад
+  price: '19'
+  description: Мармелад на основі мандаринового пюре в чорному шоколаді.Входить до
+    набору цукерок:"ЛАДНІ МАРМЕЛАДНІ"
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1390&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1392'
+  title: Чорносмородиновий мармелад
+  price: '19'
+  description: Мармелад на основі пюре з чорної смородини в молочному шоколаді.Входить
+    до набору цукерок:"ЛАДНІ МАРМЕЛАДНІ"
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1392&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1355'
+  title: Лимонний мармелад
+  price: '19'
+  description: Мармелад на основі лимонного соку в чорному шоколаді. Входить до набору
+    цукерок:"ЛАДНІ МАРМЕЛАДНІ"
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1355&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '286'
+  title: Дзиґа в кокосі
+  price: '19'
+  description: 'Легкий крем на основі білого шоколаду в кокосі. Входить до наборів
+    з цукерками: "НАБІР ЦУКЕРОК В ДЕРЕВ’ЯНІЙ КОРОБЦІ",...'
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=286&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1391'
+  title: Мармелад з маракуї
+  price: '19'
+  description: Мармелад на основі пюре з маракуї в білому шоколаді
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1391&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1321'
+  title: Квартка
+  price: '19'
+  description: Шоколадно-карамельний ганаш з віддтінком солі в молочному шоколаді.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1321&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '317'
+  title: Полунична цьомка
+  price: '19'
+  description: Ганаш на основі білого шоколаду з полуничним смаком
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=317&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '293'
+  title: Віденський трюфель
+  price: '19'
+  description: Ніжна кремова начинка зі смаком кави, вкрита чорним шоколадом.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=293&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1251'
+  title: Карамельна захцянка
+  price: '19'
+  description: Ганаш на основі білого шоколаду з додаванням вершкового масла та карамельної
+    пасти, вкритий чорним шоколадом та...
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1251&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '878'
+  title: Маланка
+  price: '19'
+  description: М'яка карамель з додаванням білого шоколаду та мигдалю у молочному
+    шоколаді. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=878&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '874'
+  title: Горіховий ґудз
+  price: '20'
+  description: Ганаш на основі білого шоколаду з карамелізованими горішками у молочному
+    шоколаді. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=874&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '328'
+  title: Бонг
+  price: '19'
+  description: Ганаш на основі чорного шоколаду з відтінком коньяку, вкритий молочним
+    шоколадом та какао. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=328&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '285'
+  title: Дзиґа в горісі
+  price: '19'
+  description: Ніжний вершковий крем на основі білого шоколаду вкритий чорним шоколадом
+    та крихтами мигдалю. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=285&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1320'
+  title: Емерит
+  price: '19'
+  description: Глазуровані чорним шоколадом цукерки круглої форми, обсипані шоколадним
+    цукром. Корпус — марципаново-шоколадний з...
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1320&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '880'
+  title: Метелик
+  price: '19'
+  description: Полунично-бананова начинка на основі білого шоколаду у молочному та
+    білому шоколаді.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=880&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '326'
+  title: Авантура
+  price: '22'
+  description: Смачнюче поєднання праліне та марципаново-ромової начинки у чорному
+    шоколаді.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=326&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '321'
+  title: Серце Львова
+  price: '19'
+  description: Ніжна полунична начинка в молочному шоколаді
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=321&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '308'
+  title: Горіхові клейноди молочні
+  price: '20'
+  description: Карамелізовані лісові горішки, вкриті молочним шоколадом.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=308&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '306'
+  title: Солодкі пацьорки
+  price: '19'
+  description: Вершковий крем на основі білого шоколаду з відтінком рому, вкритий
+    чорним шоколадом та крихтами молочного шоколаду. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=306&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '330'
+  title: Чоколядовий бамбетель чорний
+  price: '22'
+  description: Ганаш на основі молочного шоколаду з легким смаком карамелі та кави
+    у чорному шоколаді та в хрустких пластівцях.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=330&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '331'
+  title: Чоколядовий бамбетель молочний
+  price: '22'
+  description: Ганаш на основі молочного шоколаду з легким смаком карамелі та кави
+    в молочному шоколаді та в хрустких пластівцях.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=331&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '333'
+  title: Чоколядовий бамбетель карамельний
+  price: '22'
+  description: Ганаш на основі молочного шоколаду з легким смаком карамелі та кави
+    у білому шоколаді та в хрустких пластівцях. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=333&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '332'
+  title: Чоколядовий бамбетель білий
+  price: '22'
+  description: Ганаш на основі молочного шоколаду з легким смаком карамелі та кави
+    у білому шоколаді та мигдалевих пластівцях. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=332&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '291'
+  title: Марц і Панна
+  price: '20'
+  description: Кавово-марципанова начинка в білому шоколаді з цільним грецьким горіхом.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=291&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '875'
+  title: Дефіляда
+  price: '22'
+  description: Поєднання трьох видів шоколаду з додаванням мигдалевих пластівців і
+    лісового горіху в чорному шоколаді
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=875&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '320'
+  title: Фрау Цимер
+  price: '20'
+  description: Фісташковий ганаш на основі білого шоколаду, вкритий фісташковими крихтами.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=320&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '298'
+  title: Королівська
+  price: '22'
+  description: Горіховий крем, загорнутий в кавовий марципан з цільним лісовим горішком,
+    вкритий чорним шоколадом.
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=298&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '715'
+  title: Вишневий шпацер
+  price: '25'
+  description: Марципаново-вишнева начинка з сушеною вишнею, настояною на коньяку. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=715&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '307'
+  title: Шоколатьє
+  price: '20'
+  description: Горіхове праліне в молочному шоколаді прикрашене кавовим зернятком. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=307&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '887'
+  title: Солодка штука
+  price: '22'
+  description: Ніжне праліне у поєднанні з хрусткими пластівцями в молочному шоколаді. 
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=887&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1469'
+  title: Пані Сливка в молочному шоколаді
+  price: '24'
+  description: Королівський чорнослив з горішком кеш'ю, вкритий молочним шоколадом
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1469&maxx=230&maxy=230&fit=fitxy
+- !ruby/object:Sweet
+  id: '1470'
+  title: Пані Сливка в чорному шоколаді
+  price: '24'
+  description: |-
+    Королівський чорнослив з горішком кеш'ю, вкритий чорним шоколадом
+     
+  image: https://www.chocolate.lviv.ua/image.php?ch_productid=1470&maxx=230&maxy=230&fit=fitxy

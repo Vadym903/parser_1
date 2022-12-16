@@ -1,4 +1,6 @@
 require 'csv'
+require 'yaml'
+require 'json'
 
 class SweetsParser
     @@sweets_collection = []
@@ -22,7 +24,7 @@ class SweetsParser
         end
     end
 
-    def save_to_csv
+    def save_to_csv(file)
         CSV.open(file, 'w', headers: ['Id', 'Title', 'Description', 'Image', 'Price'], write_headers: true) do |csv|
             @@sweets_collection.each do |sweet|
                 csv << [

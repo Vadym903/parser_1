@@ -5,4 +5,8 @@ class Category
         @id = id
         @name = name
     end
+
+    def to_s
+        id + " " + name
+    end
 end
